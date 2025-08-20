@@ -30,10 +30,15 @@ This project involves:
 ### 🎯 This repository shows my expertise in:
 
 • SQL Development
+
 • Data Architect
+
 • Data Engineering
+
 • ETL Pipeline Developer
+
 • Data Modeling
+
 • Data Analytics
 
 ## 🚀 Project Requirements
